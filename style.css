@@ -1,0 +1,23 @@
+/* .main{
+    background-color: rgb(129, 56, 56,0.3);
+    color: white;
+    margin: 50px;
+} */
+.timer{
+    background-color: #1a2b46;
+    width: 450px;
+    border: 5px dashed rgb(69, 143, 72);
+    color: white;
+    padding: 10px;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tab{
+    /* background-color: rgb(201, 201, 77,0.4);
+    width: 100px;
+    height: 100px;
+    padding: 10px; */
+    margin: 10px; 
+}
